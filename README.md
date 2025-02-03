@@ -15,7 +15,7 @@ nextjs-maplibre/
 │── public/
 │── src/
 │   ├── components/
-│   │   ├── MapLibreMap.tsx  # Map component
+│   │   ├── MapLibre.tsx  # Map component
 │   ├── pages/
 │   │   ├── index.tsx        # Main page
 │── package.json
